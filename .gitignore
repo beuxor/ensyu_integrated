@@ -3,4 +3,5 @@ titanic.zip
 slides/*
 !/slides/NOBUSUE_Ryuku_Titanic.pptx
 .DS_Store
-*/*/.DS_Store
+*/*/
+.DS_Store
